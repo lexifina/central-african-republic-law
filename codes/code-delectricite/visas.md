@@ -1,0 +1,8 @@
+# Visas
+
+J.O.R.C.A / OCTOBRE 2008 Edition Spéciale Code de l’Electricité Et Statuts des Agences de Régulation du Secteur  Décret N°07.328 du 1er Octobre 2007, portant modification partielle du Décret N°07.272 du 11 Septembre 2005, fixant les attributions et portant organisation et fonctionnement de l’Agence Autonome de Régulation du Secteur de l’Electricité en République Centrafricaine …  Décret N°07.275 portant modification partielle du Décret N°05.272 du 11 Septembre 2005, fixant les attributions et portant organisation et fonctionnement de l’Agence Autonome de Régulation du Secteur de l’Electricité ………….
+ Décret N°07.287 du 8 Octobre 2008, portant nomination des membres du Conseil d’Administration de l’Agence Autonome de Régulation du Secteur de l’Electricité en République Centrafricaine ……………………… REPUBLIQUE CENTRAFRICAINE PRESIDENCE DE LA REPUBLIQUE ORDONNANCE N°05.001 PORTANT CODE DE L’ELECTRICITE DE LA REPUBLIQUE CENTRAFRICAINE LE PRESIDENT DE LA REPUBLIQUE, CHEF DE L’ETAT Vu la Constitution du 27 Décembre 2004 ;
+Vu le Décret n°03.331 du 12 Décembre 2003, portant nomination du Premier Ministre, Chef du Gouvernement ;
+Vu le Décret n°04.256 du 02 Septembre 2004, portant nomination ou confirmation des Membres du Gouvernement et son modificatif subséquent ;
+Vu le Décret n°04.364 du 08 Décembre 2004, portant Organisation et Fonctionnement du Ministère de l’Energie, des Mines et de l’Hydraulique et fixant les attributions du Ministre ;
+SUR RAPPORT DU MINISTRE DE L’ENERGIE, DES MINES ET DE L’HYDRAULIQUE LE CONSEIL DES MINISTRE ENTENDU APRES AVIS DU CONSEIL NATIONAL DE TRANSITION ORDONNE TITRE I DU CHAMP D’APPLICATION, DES DEFINITIONS ET DES DISPOSITIONS GENERALES Chapitre 1 : Du Champ d’Application
