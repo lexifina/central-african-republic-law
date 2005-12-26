@@ -1,0 +1,3 @@
+# Signatures
+
+Fait à Bangui, le 26 Décembre 2005 Le Général d’Armée François BOZIZE 22 / 23 DECRET N°05.396 FIXANT LES MODALITES D’APPLICATION DE LA LOI N° 01.010 DU 16 JUILLET 2001 23 / 23
