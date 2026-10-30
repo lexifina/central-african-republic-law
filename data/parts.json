@@ -1,0 +1,23 @@
+{
+ "parts": {
+  "20-code-penal.json": {
+   "acts": [
+    "code-penal"
+   ],
+   "sha256": "ec08aecffbb70f23098f6cf941fb8f4ba393387847e8a511cb196accab79f7c8"
+  },
+  "30-code-du-travail.json": {
+   "acts": [
+    "code-du-travail"
+   ],
+   "sha256": "f9c9ded32e72ffc15237a8f36233362d3ca236ff217939d4beb764c41a4ce451"
+  },
+  "40-code-procedure-penale.json": {
+   "acts": [
+    "code-procedure-penale"
+   ],
+   "sha256": "a3e1e875ee9724ae186adece55b7bf9ee9674fc2eb4e6c4b743398462aaf0849"
+  }
+ },
+ "schema": 1
+}
