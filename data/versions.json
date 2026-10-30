@@ -1,0 +1,61 @@
+{
+ "country": "CF",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "Constitution de la VIIe République (30 août 2023)",
+   "url": "https://mjp.univ-perp.fr/constit/cf2023.htm",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 187,
+     "source_url": "https://mjp.univ-perp.fr/constit/cf2023.htm",
+     "sha256": "2cd43b1de0fe363dd6bc6061f7107a5d9849ad201244613a95ec45ab58b82e98"
+    }
+   ]
+  },
+  {
+   "slug": "code-penal",
+   "short": "Code pénal",
+   "title": "Loi n° 10.001 du 6 janvier 2010 portant Code pénal centrafricain",
+   "url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/cf/cf003fr.pdf",
+   "versions": [
+    {
+     "from": "2010-01-06",
+     "units": 447,
+     "source_url": "https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/cf/cf003fr.pdf",
+     "sha256": "a68c9a1fe75935be3c4dc2946e606a8b0f8947f64a9f810447ef1c8dc7a1d9a1"
+    }
+   ]
+  },
+  {
+   "slug": "code-du-travail",
+   "short": "Code du travail",
+   "title": "Loi n° 09.004 du 29 janvier 2009 portant Code du travail de la République centrafricaine",
+   "url": "https://faolex.fao.org/docs/pdf/caf158592.pdf",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 398,
+     "source_url": "https://faolex.fao.org/docs/pdf/caf158592.pdf",
+     "sha256": "aff07cb0d817753b620cb04702735bdc47e7f559f1771fa52cacb5c974cc80ed"
+    }
+   ]
+  },
+  {
+   "slug": "code-procedure-penale",
+   "short": "CPP",
+   "title": "Loi n° 10.002 du 6 janvier 2010 portant Code de procédure pénale centrafricain",
+   "url": "https://www.derechos.org/intlaw/doc/caf2.html",
+   "versions": [
+    {
+     "from": "2010-01-06",
+     "units": 504,
+     "source_url": "https://www.derechos.org/intlaw/doc/caf2.html",
+     "sha256": "e0048c0c690684d0375727b273cc88d6155fd90eaca403bedf34bf2fd1753d61"
+    }
+   ]
+  }
+ ]
+}
