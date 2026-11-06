@@ -1,5 +1,7 @@
 # Central African Republic: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Central African Republic's national law, which global-law reads at `central-african-republic/national/acts/`.
+
 The Constitution of the Central African Republic of 30 August 2023 and core statutes (listed below) as a git repository: one file per article, one paragraph per line, so `git blame` and `git diff` work line by line.
 
 **Language: French**, the official language of the text. No official English text exists.
