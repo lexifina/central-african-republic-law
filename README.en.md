@@ -59,6 +59,7 @@ The Constitution is credited to itself (`Constitution of 30 August 2023`). Each 
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse, that there are no merge commits and that no commit is dated in the future.
 - `tools/build.py` writes the history from that corpus in one pass; a second build into an empty folder gave identical hashes. The results are in [`REPRODUCE.md`](REPRODUCE.md), and [`data/corpus.sha256`](data/corpus.sha256) gives the corpus's hash.
 - The words are the sources' own, only split into files and lines (see [`LICENSE`](LICENSE)). The Code du travail's paragraphs are rebuilt from the layout of its two-column print; the Code pénal's source marks no paragraph breaks, so each of its articles is one paragraph.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -82,6 +83,10 @@ The Constitution is credited to itself (`Constitution of 30 August 2023`). Each 
 See [`LICENSE`](LICENSE). The Central African Republic applies Annex VII of the Bangui Agreement (OAPI), whose Article 6(i) excludes official texts of a legislative nature from copyright protection, so none of the four texts carries copyright. The arrangement, tables, commit messages and tools are by Lexifina, under CC BY 4.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
