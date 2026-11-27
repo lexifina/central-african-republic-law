@@ -4,6 +4,17 @@
  "generated_from": "runner state",
  "acts": [
   {
+   "id": "arretes/2021/10-21-fixant-les-conditions-dattribution-des-permis",
+   "kind": "arrete",
+   "number": "10/MEFCP/DIRCAB",
+   "date": "2021-04-07",
+   "title": "Arrêté n° 10/MEFCP/DIRCAB du 7 avril 2021 .21 fixant les conditions d’attribution des permis d’exploitation artisanales et autres autorisations en République Centrafricaine",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC213173/arrete-n-10-mefcp-dircab-21-fixant-les-conditions-d-attribut-caf-2021",
+   "file": "https://faolex.fao.org/docs/pdf/caf213173.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 20
+  },
+  {
    "id": "codes/code-de-leau",
    "kind": "loi",
    "number": "06.001",
@@ -158,6 +169,17 @@
    "articles": 294
   },
   {
+   "id": "decrets/2018/18-192-portant-organisation-et-fonctionnement-du",
+   "kind": "decret",
+   "number": "18-192",
+   "date": "2018-07-23",
+   "title": "Décret n° 18-192 du 23 juillet 2018 portant organisation et fonctionnement du ministère de l’action humanitaire et de la réconciliation nationale et fixant les attributions du ministre",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC230156/decret-n-18-192-du-23-juillet-2018-portant-organisation-et-f-caf-2018",
+   "file": "https://faolex.fao.org/docs/pdf/caf230156.pdf",
+   "text_layer": "born-digital",
+   "articles": 50
+  },
+  {
    "id": "lois/2001/01-010-art-1-la-presente-loi-prise-en-application-des",
    "kind": "loi",
    "number": "01-010",
@@ -178,6 +200,28 @@
    "file": "https://faolex.fao.org/docs/pdf/caf78237.pdf",
    "text_layer": "born-digital",
    "articles": 159
+  },
+  {
+   "id": "lois/2019/sn-0116-regissant-les-organisations-non-gouvernementales",
+   "kind": "loi",
+   "number": "",
+   "date": "2019-01-16",
+   "title": "Loi du 16 janvier 2019 régissant les organisations non gouvernementales (ONG) en République Centrafricaine",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC213189/loi-regissant-les-organisations-non-gouvernementales-ong-en-caf-2019",
+   "file": "https://faolex.fao.org/docs/pdf/caf213189.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 68
+  },
+  {
+   "id": "lois/2020/20-008-portant-organisation-et-fonctionnement-des",
+   "kind": "loi",
+   "number": "20.008",
+   "date": "2020-04-07",
+   "title": "Loi n° 20.008 du 7 avril 2020, portant organisation et fonctionnement des Collectivités Territoriales",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC232668/loi-n-20-008-du-7-avril-2020-portant-organisation-et-fonctio-caf-2020",
+   "file": "https://faolex.fao.org/docs/pdf/caf232668.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 216
   },
   {
    "id": "ordonnances/1968/68-59-portant-institution-du-regime-fiscal-des",
