@@ -26,6 +26,28 @@
    "articles": 59
   },
   {
+   "id": "cemac/directives/2001/02-01-050-06-relative-a-limpot-sur-les-societes",
+   "kind": "cemac-directives",
+   "number": "02/01/UEAC-050-CM-06",
+   "date": "2001-08-03",
+   "title": "Directive N°02/01/UEAC-050-CM-06 Relative à l’impôt sur les sociétés",
+   "source": "https://cemac.int/wp-content/uploads/2025/03/directive-relative-a-limpot-sur-les-societes.pdf",
+   "file": "https://cemac.int/wp-content/uploads/2025/03/directive-relative-a-limpot-sur-les-societes.pdf",
+   "text_layer": "born-digital",
+   "articles": 63
+  },
+  {
+   "id": "cemac/directives/2004/01-04-177-relative-a-limpot-sur-le-revenu-des-personnes",
+   "kind": "cemac-directives",
+   "number": "01/04-UEAC-177",
+   "date": "2004-07-30",
+   "title": "Directive N°01/04-UEAC-177 Relative à l’impôt sur le revenu des personnes physiques (IRPP)",
+   "source": "https://cemac.int/wp-content/uploads/2025/03/directive-relative-impot-revenu-des-personnes-physiques.pdf",
+   "file": "https://cemac.int/wp-content/uploads/2025/03/directive-relative-impot-revenu-des-personnes-physiques.pdf",
+   "text_layer": "born-digital",
+   "articles": 83
+  },
+  {
    "id": "codes/code-de-leau",
    "kind": "loi",
    "number": "06.001",
