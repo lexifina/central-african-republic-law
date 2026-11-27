@@ -11,7 +11,7 @@ The law of the Central African Republic as a git history: one file per article, 
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the Central African Republic's national law, which global-law reads at `central-african-republic/national/acts/`.
 
-**What is in it now:** 28 texts, each as its source publishes it: the Constitution of 2023, 11 codes (among them the Code pénal, the Code de procédure pénale and the Code du travail), 4 laws, 4 ordinances, 6 decrees and 1 orders (arrêtés), filed by kind and year ([STRUCTURE.md](STRUCTURE.md); the full list is [`corpus.json`](corpus.json)); 1 earlier constitutional texts (`constitution/anterieures/`); 3 CEMAC community texts that apply in the Central African Republic (`cemac/`). Court decisions (OHADA) are in a separate repository.
+**What is in it now:** 28 texts, each as its source publishes it: the Constitution of 2023, 11 codes (among them the Code pénal, the Code de procédure pénale and the Code du travail), 4 laws, 4 ordinances, 6 decrees and 1 orders (arrêtés), filed by kind and year ([STRUCTURE.md](STRUCTURE.md); the full list is [`corpus.json`](corpus.json)); 1 earlier constitutional texts (`constitution/anterieures/`); 16 CEMAC community texts that apply in the Central African Republic (`cemac/`). Court decisions (OHADA) are in a separate repository.
 
 Each act is a folder with one file per article: `constitution/`, codes in `codes/<code>/`, other texts by kind and year (`lois/2006/…`, `decrets/2010/…`); so `codes/code-du-travail/art-280.md` is Article 280 of the Code du travail, the right to paid annual leave; the Constitution's preamble is `constitution/preamble.md`.
 
@@ -58,7 +58,7 @@ The Constitution is credited to itself (`Constitution of 30 August 2023`). Each 
 ## How it is checked
 
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and both must match the corpus the history was built from; it also checks that every commit's trailers parse, that there are no merge commits and that no commit is dated in the future.
-- `tools/build.py` writes the history from that corpus in one pass; a second build into an empty folder gave identical hashes. The results are in [`REPRODUCE.md`](REPRODUCE.md), and [`data/corpus.sha256`](data/corpus.sha256) gives the corpus's hash. That corpus covers only the first four texts; the texts added from 27 November 2026 are added by the runner described in [`REPRODUCE.md`](REPRODUCE.md).
+- `tools/build.py` writes the history from that corpus in one pass; a second build into an empty folder gave identical hashes. The results are in [`REPRODUCE.md`](REPRODUCE.md), and [`data/corpus.sha256`](data/corpus.sha256) gives the corpus's hash. That corpus covers only the first four texts; the texts added from 27 November 2026 are added by the runner described in [`REPRODUCE.md`](REPRODUCE.md). That corpus covers only the first four texts; the texts added from 27 November 2026 are added by the runner described in [`REPRODUCE.md`](REPRODUCE.md).
 - The words are the sources' own, only split into files and lines (see [`LICENSE`](LICENSE)). The Code du travail's paragraphs are rebuilt from the layout of its two-column print; the Code pénal's source marks no paragraph breaks, so each of its articles is one paragraph.
 - [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
@@ -79,6 +79,10 @@ The Constitution is credited to itself (`Constitution of 30 August 2023`). Each 
 | [WIPO Lex](https://wipolex-res.wipo.int/edocs/lexdocs/laws/fr/cf/cf003fr.pdf) (record CF003) | Copy of loi n° 10.001 | no, as enacted | The Code pénal |
 | [FAOLEX](https://faolex.fao.org/docs/pdf/caf158592.pdf) (FAO) | The Journal officiel, special edition of 7 September 2010, as a PDF | no, as enacted | The Code du travail |
 | [Equipo Nizkor](https://www.derechos.org/intlaw/doc/caf2.html) | Transcription of the Journal officiel, special edition of 15 January 2010 | no, as enacted | The Code de procédure pénale |
+| [FAOLEX](https://www.fao.org/faolex/) (FAO) | PDF copies of the published texts, with their text layer | no | The other codes, laws, ordinances, decrees and orders; secondary copy (`Source-status` trailer); non-commercial reuse with credit to FAO |
+| [WIPO Lex](https://www.wipo.int/wipolex/) (WIPO) | PDF copies of a few laws | no | Secondary copy (`Source-status` trailer) |
+| Ministry sites (finances.gouv.cf, justice.gouv.cf, mines.gouv.cf, …) | Official PDFs published by the ministries | no | Official texts; scans without a text layer left out |
+| [CEMAC](https://www.cemac.int) (Commission media library) | Treaty, regulations, directives and additional acts | no | Community law, `cemac/` folder |
 | [FAOLEX](https://www.fao.org/faolex/) (FAO) | PDF copies of the published texts, with their text layer | no | The other codes, laws, ordinances, decrees and orders; secondary copy (`Source-status` trailer); non-commercial reuse with credit to FAO |
 | [WIPO Lex](https://www.wipo.int/wipolex/) (WIPO) | PDF copies of a few laws | no | Secondary copy (`Source-status` trailer) |
 | Ministry sites (finances.gouv.cf, justice.gouv.cf, mines.gouv.cf, …) | Official PDFs published by the ministries | no | Official texts; scans without a text layer left out |
