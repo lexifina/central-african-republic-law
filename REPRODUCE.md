@@ -83,3 +83,11 @@ Model use at data-build time:
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+
+## Runner (2026-11-27 onwards)
+
+The three codes were moved into `codes/` by a pure rename commit (0d656af, no text changed). New acts are added by `scripts/central-african-republic-law/runner/cf_build.py` (Lexifina's private tooling): it reads the FAOLEX records for the Central African Republic (from FAOLEX's public sitemaps) and WIPO Lex records; fetches each text at about one request per second per host; keeps a PDF's own text layer (no OCR of our own; publisher OCR layers only when they read as clean text); splits it one file per article; and commits one version per act at noon Africa/Bangui on the date of the text, with `In-force`, `In-force-basis`, `Source` and `Source-status` trailers. Commits are appended on top of `main` and pushed fast-forward. `corpus.json` lists every act the runner added.
+
+Not used: these official hosts did not answer on 2026-11-27 (journal-officiel.cf, sgg.cf, assemblee-nationale.cf, cour-constitutionnelle.cf, presidence.cf: no connection); droit-afrique.com returns 403 (not got round). Scans without a text layer on the ministry sites (among them the Code de la famille on justice.gouv.cf) are left out. Appointment decrees are left out.
+
+Earlier constitutional texts (cf_extra.py) sit in their own folders under `constitution/anterieures/`, so the 2023 text in `constitution/` is untouched. CEMAC community law (cf_regional.py) is under `cemac/<type>/<year>/`, from the CEMAC Commission's media library, dated on the date of the text. The ministries' own sites (*.gouv.cf) are read at their robots.txt Crawl-delay of 10 s.

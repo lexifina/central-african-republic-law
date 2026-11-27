@@ -4,7 +4,7 @@
   "name": "Central African Republic",
   "level": "country",
   "repo": "https://github.com/lexifina/central-african-republic-law",
-  "build": "built",
+  "build": "built: 28 French acts, one version each (Constitution 2023; 11 codes; laws, ordinances, decrees and orders by kind and year) from the ministries, FAOLEX, WIPO Lex, Equipo Nizkor and the Digithèque MJP, plus CEMAC community law; not today's text: amendments are not applied",
   "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
   "register_date": "2026-10-28"
 }

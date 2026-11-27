@@ -35,6 +35,22 @@ Nizkor / Derechos Human Rights (https://www.derechos.org/intlaw/doc/caf2.html), 
 special edition of 15 January 2010 as its source, retrieved on 30 October 2026. Credit for the bytes: Equipo Nizkor.
 It is an official text of a legislative nature, so Article 6(i) of Annex VII (quoted above) applies to it too.
 
-The arrangement of this repository, its tables, commit messages and tools are by Lexifina and may be reused under
-the Creative Commons Attribution 4.0 International licence (https://creativecommons.org/licenses/by/4.0/). This
+Further texts (added 2026-11-27 onwards; each act's README.md and commit trailers name its source):
+
+  FAOLEX, the FAO legal database (faolex.fao.org): copies of Central African legislation. FAO terms: reuse for
+  non-commercial purposes with acknowledgement of FAO as the source (https://www.fao.org/contact-us/terms/en/).
+  Source: FAOLEX, Food and Agriculture Organization of the United Nations.
+
+  WIPO Lex (wipo.int/wipolex): copies of Central African laws, World Intellectual Property Organization; terms of
+  use https://www.wipo.int/tools/en/disclaim.html.
+
+  Ministry sites of the Central African Republic (*.gouv.cf): official PDFs; no licence stated.
+
+  CEMAC (cemac.int): community texts from the Commission's media library; no licence stated; official texts.
+
+  These are official texts of a legislative or administrative nature, so Article 6(i) of Annex VII of the Bangui
+  Agreement (quoted above) applies to them too.
+
+The arrangement of this repository, its tables, commit messages and tools are by Lexifina and are dedicated to
+the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). This
 repository is not legal advice and not an official publication.
