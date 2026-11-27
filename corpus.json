@@ -1,0 +1,227 @@
+{
+ "corpus": "cf/national/acts",
+ "jurisdiction": "Central African Republic",
+ "generated_from": "runner state",
+ "acts": [
+  {
+   "id": "codes/code-de-leau",
+   "kind": "loi",
+   "number": "06.001",
+   "date": "2006-04-12",
+   "title": "Loi n° 06.001 du 12 avril 2006 portant Code de l’Eau de la République Centrafricaine",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC107433/loi-n-06-001-du-12-avril-2006-portant-code-de-l-eau-de-la-re-caf-2006",
+   "file": "https://faolex.fao.org/docs/pdf/caf107433.pdf",
+   "text_layer": "born-digital",
+   "articles": 110
+  },
+  {
+   "id": "codes/code-de-lenvironnement",
+   "kind": "loi",
+   "number": "07",
+   "date": "2007-12-28",
+   "title": "Loi n° 07 du 28 décembre 2007 .018 portant Code de l’Environnement de la République Centrafricaine",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC105925/loi-n-07-018-portant-code-de-l-environnement-de-la-republiqu-caf-2007",
+   "file": "https://faolex.fao.org/docs/pdf/caf105925.pdf",
+   "text_layer": "born-digital",
+   "articles": 130
+  },
+  {
+   "id": "codes/code-de-marches-publics-et-delegations-de-service-public",
+   "kind": "loi",
+   "number": "08-017",
+   "date": "2008-06-06",
+   "title": "Loi n° 08-017 du 6 juin 2008 portant Code de marchés publics et délégations de service public en République Centrafricaine",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC178250/loi-n-08-017-du-6-juin-2008-portant-code-de-marches-publics-caf-2008",
+   "file": "https://faolex.fao.org/docs/pdf/caf178250.pdf",
+   "text_layer": "born-digital",
+   "articles": 113
+  },
+  {
+   "id": "codes/code-de-securite-sociale",
+   "kind": "loi",
+   "number": "06-035",
+   "date": "2006-12-28",
+   "title": "Loi n° 06-035 du 28 décembre 2006 portant code de sécurité sociale",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC158583/loi-n-06-035-du-28-decembre-2006-portant-code-de-securite-so-caf-2006",
+   "file": "https://faolex.fao.org/docs/pdf/caf158583.pdf",
+   "text_layer": "born-digital",
+   "articles": 205
+  },
+  {
+   "id": "codes/code-delectricite",
+   "kind": "ordonnance",
+   "number": "05.001",
+   "date": "2005-01-01",
+   "title": "Ordonnance n° 05.001 du 1er janvier 2005 portant Code d’Electricité de la République Centrafricaine",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC107436/ordonnance-n-05-001-du-1er-janvier-2005-portant-code-d-elect-caf-2005",
+   "file": "https://faolex.fao.org/docs/pdf/caf107436.pdf",
+   "text_layer": "born-digital",
+   "articles": 50
+  },
+  {
+   "id": "codes/code-forestier",
+   "kind": "loi",
+   "number": "08",
+   "date": "2008-10-17",
+   "title": "Loi n° 08 du 17 octobre 2008 .022 portant Code forestier de la République centrafricaine",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC107432/loi-n-08-022-portant-code-forestier-de-la-republique-centraf-caf-2008",
+   "file": "https://faolex.fao.org/docs/pdf/caf107432.pdf",
+   "text_layer": "born-digital",
+   "articles": 237
+  },
+  {
+   "id": "codes/code-minier",
+   "kind": "loi",
+   "number": "9-005",
+   "date": "2009-04-29",
+   "title": "Loi n°9-005 du 29 avril 2009 portant Code minier",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC096686/loi-n-09-005-portant-code-minier-caf-2009",
+   "file": "https://faolex.fao.org/docs/pdf/caf96686.pdf",
+   "text_layer": "born-digital",
+   "articles": 198
+  },
+  {
+   "id": "codes/code-petrolier",
+   "kind": "ordonnance",
+   "number": "93.007",
+   "date": "1993-05-25",
+   "title": "Ordonnance n°93.007 du 25 mai 1993 portant Code pétrolier",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC078240/ordonnance-n-93-007-portant-code-petrolier-caf-1993",
+   "file": "https://faolex.fao.org/docs/pdf/caf78240.pdf",
+   "text_layer": "born-digital",
+   "articles": 89
+  },
+  {
+   "id": "decisions/2003/sn-0407-portant-suspension-provisoire-des-abattages-et",
+   "kind": "decision",
+   "number": "",
+   "date": "2003-04-07",
+   "title": "Décision du 7 avril 2003 portant suspension provisoire des abattages et exportations de grumes pour toutes les sociétés forestières exerçant en République Centrafricaine",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC037151/decision-portant-suspension-provisoire-des-abattages-et-expo-caf-2003",
+   "file": "https://faolex.fao.org/docs/pdf/caf37151.pdf",
+   "text_layer": "born-digital",
+   "articles": 5
+  },
+  {
+   "id": "decrets/2005/05-396-fixant-les-modalites-dapplication-de-la-loi-n-01",
+   "kind": "decret",
+   "number": "05.396",
+   "date": "2005-12-26",
+   "title": "Décret n° 05.396 du 26 Décembre 2005 fixant les modalités d’application de la loi n° 01.010 du 16 juillet 2001",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC158608/decret-n-05-396-du-26-decembre-2005-fixant-les-modalites-d-a-caf-2005",
+   "file": "https://faolex.fao.org/docs/pdf/caf158608.pdf",
+   "text_layer": "born-digital",
+   "articles": 34
+  },
+  {
+   "id": "decrets/2007/07-299-fixant-les-attributions-de-lagence-autonome-de",
+   "kind": "decret",
+   "number": "07.299",
+   "date": "2007-10-17",
+   "title": "Décret n° 07.299 du 17 octobre 2007, fixant les attributions de l’Agence autonome de Régulation du Secteur de l’Eau et de l’Assainissement (ARSEA)",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC107434/decret-n-07-299-du-17-octobre-2007-fixant-les-attributions-d-caf-2007",
+   "file": "https://faolex.fao.org/docs/pdf/caf107434.pdf",
+   "text_layer": "born-digital",
+   "articles": 39
+  },
+  {
+   "id": "decrets/2007/07-300du-17-octobre-2007-fixant-les-attributions-de",
+   "kind": "decret",
+   "number": "07",
+   "date": "2007-10-17",
+   "title": "Décret n° 07 du 17 octobre 2007 .300du 17 octobre 2007, fixant les attributions de l’Agence Nationale de l’Eau et de l’Assainissement en milieu rural",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC107435/decret-n-07-300du-17-octobre-2007-fixant-les-attributions-de-caf-2007",
+   "file": "https://faolex.fao.org/docs/pdf/caf107435.pdf",
+   "text_layer": "born-digital",
+   "articles": 41
+  },
+  {
+   "id": "decrets/2009/09-125-portant-approbation-de-la-convention-miniere",
+   "kind": "decret",
+   "number": "09.125",
+   "date": "2009-04-30",
+   "title": "Décret N°09.125 du 30 avril 2009 portant approbation de la Convention Minière Standard entre l’Etat Centrafricain et l’Investisseur Minier",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC107422/decret-n-09-125-portant-approbation-de-la-convention-miniere-caf-2009",
+   "file": "https://faolex.fao.org/docs/pdf/caf107422.pdf",
+   "text_layer": "born-digital",
+   "articles": 36
+  },
+  {
+   "id": "decrets/2009/09-126-fixant-les-conditions-dapplication-de-la-loi-n-09",
+   "kind": "decret",
+   "number": "09.126",
+   "date": "2009-04-30",
+   "title": "Décret n° 09.126 du 30 avril 2009 fixant les conditions d’application de la Loi n° 09.005 du 29 avril 2009 portant Code Minier de la République Centrafricaine",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC107424/decret-n-09-126-du-30-avril-2009-fixant-les-conditions-d-app-caf-2009",
+   "file": "https://faolex.fao.org/docs/pdf/caf107424.pdf",
+   "text_layer": "publisher-ocr",
+   "articles": 294
+  },
+  {
+   "id": "lois/2001/01-010-art-1-la-presente-loi-prise-en-application-des",
+   "kind": "loi",
+   "number": "01-010",
+   "date": "2001-07-16",
+   "title": "Loi n°01-010 du 16 juillet 2001 Art.1.- La présente loi prise en application des dis- positions de la Charte Communautaire de l’Investissement en zone CEMAC, constitue le cadre général destiné à améliorer l’environnement juridique, économique et institutionnel des investis- sement",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC158603/loi-n-01-010-du-16-juillet-2001-instituant-une-charte-des-in-caf-2001",
+   "file": "https://faolex.fao.org/docs/pdf/caf158603.pdf",
+   "text_layer": "born-digital",
+   "articles": 28
+  },
+  {
+   "id": "lois/2006/06-031-nb-loi-n06-031-du-27-septembre-2006-relative-aux",
+   "kind": "loi",
+   "number": "06-031",
+   "date": "2006-09-27",
+   "title": "Loi n°06-031 du 27 septembre 2006 [NB - Loi n°06-031 du 27 septembre 2006 relative aux minerais radioactifs de la République Centrafricaine] Sommaire Titre 1 - Dispositions générales .................................................................................................1 T",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC078237/loi-n-06-031-relative-aux-minerais-radioactifs-de-la-republi-caf-2006",
+   "file": "https://faolex.fao.org/docs/pdf/caf78237.pdf",
+   "text_layer": "born-digital",
+   "articles": 159
+  },
+  {
+   "id": "ordonnances/1968/68-59-portant-institution-du-regime-fiscal-des",
+   "kind": "ordonnance",
+   "number": "68-59",
+   "date": "1968-11-08",
+   "title": "Ordonnance n° 68-59 du 8 novembre 1968 portant institution du régime fiscal des entreprises de recherche, exploitation et concentration physique ou chimique de minerais d'uranium et substances connexes en République Centrafricaine",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC095517/ordonnance-n-68-59-portant-institution-du-regime-fiscal-des-caf-1968",
+   "file": "https://faolex.fao.org/docs/pdf/caf95517.pdf",
+   "text_layer": "born-digital",
+   "articles": 9
+  },
+  {
+   "id": "ordonnances/1972/72-025-portant-interdiction-d-entree-et-de-sejour-dans",
+   "kind": "ordonnance",
+   "number": "72-025",
+   "date": "1972-03-11",
+   "title": "Ordonnance n° 72-025 du 11 mars 1972 portant interdiction d'entrée et de séjour dans les zones minières à tous les ressortissants étrangers",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC095518/ordonnance-n-72-025-portant-interdiction-d-entree-et-de-sejo-caf-1972",
+   "file": "https://faolex.fao.org/docs/pdf/caf95518.pdf",
+   "text_layer": "born-digital",
+   "articles": 9
+  },
+  {
+   "id": "ordonnances/1983/83-024-fixant-les-conditions-de-possession-et-de",
+   "kind": "ordonnance",
+   "number": "83-024",
+   "date": "1983-03-15",
+   "title": "Ordonnance n° 83-024 du 15 mars 1983 fixant les conditions de possession et de détention et réglementant l'exploitation et le commerce de l'or et des diamants bruts",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC095521/ordonnance-n-83-024-fixant-les-conditions-de-possession-et-d-caf-1983",
+   "file": "https://faolex.fao.org/docs/pdf/caf95521.pdf",
+   "text_layer": "born-digital",
+   "articles": 57
+  },
+  {
+   "id": "ordonnances/1984/84-045-portant-protection-de-la-faune-sauvage-et",
+   "kind": "ordonnance",
+   "number": "84",
+   "date": "1984-07-27",
+   "title": "Ordonnance n° 84 du 27 juillet 1984 .045 portant protection de la faune sauvage et réglementant l'exercice de la chasse en République centrafricaine",
+   "source": "https://faolex.fao.org/en/documents/LEX-FAOC004158/ordonnance-n-84-045-portant-protection-de-la-faune-sauvage-e-caf-1984",
+   "file": "https://faolex.fao.org/docs/pdf/caf4158.pdf",
+   "text_layer": "born-digital",
+   "articles": 126
+  }
+ ]
+}
